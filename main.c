@@ -37,10 +37,27 @@ void examplesOfReadingData() {
     printf("Example month is %d \n",month);
 
     int exampleNum = numAdults[1]; //arrays of integers don't feel the need to be wacky, just assign them
-    printf("Example Adults number %d \n",exampleNum) //do the same thing for other integer lists (numChildren, stayLength and newspaperChoice
+    printf("Example Adults number %d \n",exampleNum);//do the same thing for other integer lists (numChildren, stayLength and newspaperChoice
 
 }
-int main() {
-    examplesOfReadingData();
+void createBooking() {
+    char tempFirstName[20];
+    printf("enter your first name \n");
+    scanf("%s",tempFirstName);
+    char tempSecondName[20];
+    printf("enter your second name \n");
+    scanf("%s",tempSecondName);
+    // will code DOB readin later
+    int tempNumChildren;
+    printf("enter a number of children \n");
+    scanf("%d",&tempNumChildren);
+    int tempNumAdults;
+    printf("enter a number of adults \n");
+    scanf("%d",&tempNumAdults);
+    // need to get and validate FB, HB and BB
 
+    }
+
+int main() {
+    createBooking()
 }
