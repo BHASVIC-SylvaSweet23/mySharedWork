@@ -1,0 +1,3 @@
+C:/Users/Sylen/Documents/GitHub/mySharedWork/cmake-build-debug/CMakeFiles/mySharedWork.dir
+C:/Users/Sylen/Documents/GitHub/mySharedWork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sylen/Documents/GitHub/mySharedWork/cmake-build-debug/CMakeFiles/rebuild_cache.dir

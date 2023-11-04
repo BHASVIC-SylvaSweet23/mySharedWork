@@ -37,7 +37,7 @@ void examplesOfReadingData() {
     printf("Example month is %d \n",month);
 
     int exampleNum = numAdults[1]; //arrays of integers don't feel the need to be wacky, just assign them
-    printf("Example Adults number %d \n",exampleNum) //do the same thing for other integer lists (numChildren, stayLength and newspaperChoice
+    printf("Example Adults number %d \n",exampleNum);//do the same thing for other integer lists (numChildren, stayLength and newspaperChoice
 
 }
 int main() {
