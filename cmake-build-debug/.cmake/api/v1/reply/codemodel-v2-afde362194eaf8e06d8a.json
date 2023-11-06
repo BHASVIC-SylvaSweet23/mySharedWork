@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "mySharedWork::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-mySharedWork-Debug-8493f29c5bf410d20487.json",
+					"jsonFile" : "target-mySharedWork-Debug-f4f0c6aea26e96f5b2ab.json",
 					"name" : "mySharedWork",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
