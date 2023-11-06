@@ -343,6 +343,16 @@ void createBookingID(int roomNumber) {
     }
     strcpy(bookingID[roomNumber],tempBookingID);
 }
+int checkin() {
+    int selectedRoomNumber;
+    selectedRoomNumber = samswork(); // sam needs to write a function that shows the room prices and asks the user to input the room they want, and passes it back
+    int wasSuccessful = getUserInput(selectedRoomNumber);
+    if (wasSuccessful) {
+        createBookingID(selectedRoomNumber);
+        return(1);
+    }
+    return(0);
+}
 int main() {
     //createBooking()
     createBookingID(1);
