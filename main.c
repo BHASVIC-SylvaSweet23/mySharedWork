@@ -24,7 +24,7 @@ int numAdults[6] = {2,1};
 char boardType[6][3] = {"BB","FB"};
 int stayLength[6] = {1,5};
 int newspaperChoice[6] = {0,1};
-char bookingID[6][21];
+char bookingID[6][21] = {"Messi2","Ronaldo0"};
 void examplesOfReadingData() {
     char exampleName[15];
     strcpy(exampleName,firstName[1]); //you can use the same process for secondName and any other list of strings to get the whole string
