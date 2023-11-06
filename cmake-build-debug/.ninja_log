@@ -1,3 +1,17 @@
 # ninja log v5
 1	107	7207136825181507	CMakeFiles/mySharedWork.dir/main.c.obj	5842354ee7e39b73
 108	289	7207136826936597	mySharedWork.exe	5b7280989df5dadc
+0	156	7209777582215316	CMakeFiles/mySharedWork.dir/main.c.obj	5842354ee7e39b73
+157	361	7209777584226886	mySharedWork.exe	5b7280989df5dadc
+2	122	7209782650760365	CMakeFiles/mySharedWork.dir/main.c.obj	5842354ee7e39b73
+122	272	7209782652236426	mySharedWork.exe	5b7280989df5dadc
+2	122	7209783236623230	CMakeFiles/mySharedWork.dir/main.c.obj	5842354ee7e39b73
+122	268	7209783238050539	mySharedWork.exe	5b7280989df5dadc
+2	117	7209783690758742	CMakeFiles/mySharedWork.dir/main.c.obj	5842354ee7e39b73
+118	438	7209783693950870	mySharedWork.exe	5b7280989df5dadc
+2	119	7209783899348535	CMakeFiles/mySharedWork.dir/main.c.obj	5842354ee7e39b73
+119	264	7209783900769411	mySharedWork.exe	5b7280989df5dadc
+2	123	7209786877959233	CMakeFiles/mySharedWork.dir/main.c.obj	5842354ee7e39b73
+123	273	7209786879447079	mySharedWork.exe	5b7280989df5dadc
+3	132	7209788920797315	CMakeFiles/mySharedWork.dir/main.c.obj	5842354ee7e39b73
+133	442	7209788923755298	mySharedWork.exe	5b7280989df5dadc
